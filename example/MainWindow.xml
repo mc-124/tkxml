@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainWindow icon="" title="" resize="true" bg="" style="toolwidget" image="" width="" height="" center="" x="" y="">
+    <Button image="" id="" command="Function1"/>
+</MainWindow>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application version="0.1.0"
+enable-dirname="true" enable-pil="true" >
+    <MainWindow src="?dir/MainWindow.xml"/> <!-- ?dir => dirname(Application.xml) -->
+    <Frame src="?dir/PageMain.xml"/> <!--每个xml文件只能装一个MainWindow/Widget/Frame/Toplevel-->
+    <Widget src="?dir/Widget.xml"/>
+    <SubWindow src="?dir/SubWindow.xml"/>
+</Application>

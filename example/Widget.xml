@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Widget name="MyWidget">
+    <Frame> <!-- 里面必须有一个控件-->
+        <Label/>
+    </Frame>
+</Widget>
